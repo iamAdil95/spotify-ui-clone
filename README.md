@@ -19,19 +19,6 @@ This project recreates the feel of Spotify's web player interface, focusing on l
 - HTML5
 - CSS3
 
-## Project Structure
-
-/spotify-ui-clone
-  |-- index.html
-  |-- style.css
-  |-- assets/
-      |-- images/
-      |-- icons/
-
-## Screenshot
-
-![Screenshot of the Spotify UI Clone](image1)
-
 
 ---
 *Built by [iamAdil95](https://github.com/iamAdil95)*
